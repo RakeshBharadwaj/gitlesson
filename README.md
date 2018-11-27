@@ -1,1 +1,1 @@
-I am Great
+This is base GIT directory

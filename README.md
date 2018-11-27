@@ -1,1 +1,1 @@
-This is base GIT directory
+This is a new repository for testing git
